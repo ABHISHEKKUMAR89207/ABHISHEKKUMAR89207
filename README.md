@@ -22,12 +22,17 @@
 ![Linux](https://img.shields.io/badge/Linux-3333CC?style=for-the-badge&logo=linux&logoColor=white)
 
 
+<details open>
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-## 📘 My Top Open Source Projects
+  | Project | Description |
+  |---------|-------------|
+  | [Note_App-flutter_firebase](https://github.com/ABHISHEKKUMAR89207/Note_App-flutter_firebase) | A Flutter app for taking and managing notes with Firebase integration. |
+  | [Online_Shopping_App-flutter.firebase.rozarpay](https://github.com/ABHISHEKKUMAR89207/Online_Shopping_App-flutter.firebase.rozarpay) | An online shopping app built with Flutter and Firebase, with integration of the Razorpay payment gateway. |
+  | [TrainTicketBookApp-Flutter-Firebase-Rozarpay](https://github.com/ABHISHEKKUMAR89207/TrainTicketBookApp-Flutter-Firebase-Rozarpay) | A Flutter app for booking train tickets, with Firebase and Razorpay integration. |
+  <!-- Add more projects as needed -->
 
-- [**Note_App-flutter_firebase**](https://github.com/ABHISHEKKUMAR89207/Note_App-flutter_firebase): A Flutter app for taking and managing notes with Firebase integration.
-- [**Online_Shopping_App-flutter.firebase.rozarpay**](https://github.com/ABHISHEKKUMAR89207/Online_Shopping_App-flutter.firebase.rozarpay): An online shopping app built with Flutter and Firebase, with integration of the Razorpay payment gateway.
-- [**TrainTicketBookApp-Flutter-Firebase-Rozarpay**](https://github.com/ABHISHEKKUMAR89207/TrainTicketBookApp-Flutter-Firebase-Rozarpay): A Flutter app for booking train tickets, with Firebase and Razorpay integration.
+  [Explore all projects](https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers)
+</details>
 
-[Explore all projects](https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers)
 
