@@ -21,6 +21,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-3333CC?style=for-the-badge&logo=linux&logoColor=white)
 
+## Social Media Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-YourGitHubUsername-blue?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInProfile)
+[![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-blue?style=for-the-badge&logo=twitter)](https://twitter.com/YourTwitterHandle)
 
 
+## Achievements and Awards
+
+![GitHub Star](https://img.shields.io/github/stars/YourGitHubUsername?style=for-the-badge&color=yellow)
+![GitHub Forks](https://img.shields.io/github/forks/YourGitHubUsername?style=for-the-badge&color=brightgreen)
+![GitHub Followers](https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&color=blue)
+![Award](https://img.shields.io/badge/Award-First%20Place-blue?style=for-the-badge)
 
