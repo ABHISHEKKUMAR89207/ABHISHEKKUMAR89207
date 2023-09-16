@@ -23,19 +23,30 @@
 
 
 
-
 <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <p align="left">
     <a href="https://github.com/ABHISHEKKUMAR89207/Note_App-flutter_firebase"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ABHISHEKKUMAR89207&repo=Note_App-flutter_firebase&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Note_App-flutter_firebase"></a>
+    <p>
+      <strong>Note_App-flutter_firebase</strong>
+      <br>
+      This project is a versatile note-taking app developed using the Flutter framework and Firebase for backend support. It empowers users to create, edit, and organize their notes efficiently. Real-time synchronization with Firebase ensures that users can access their notes seamlessly across devices.
+    </p>
     <a href="https://github.com/ABHISHEKKUMAR89207/Online_Shopping_App-flutter.firebase.rozarpay"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ABHISHEKKUMAR89207&repo=Online_Shopping_App-flutter.firebase.rozarpay&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Online_Shopping_App-flutter.firebase.rozarpay"></a>
+    <p>
+      <strong>Online_Shopping_App-flutter.firebase.rozarpay</strong>
+      <br>
+      The Online Shopping App is a comprehensive e-commerce solution created with Flutter and Firebase. It offers a delightful shopping experience, enabling users to browse products, add items to their shopping cart, and complete secure transactions using the Razorpay payment gateway. Firebase handles backend data management for a robust shopping experience.
+    </p>
     <a href="https://github.com/ABHISHEKKUMAR89207/TrainTicketBookApp-Flutter-Firebase-Rozarpay"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ABHISHEKKUMAR89207&repo=TrainTicketBookApp-Flutter-Firebase-Rozarpay&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="TrainTicketBookApp-Flutter-Firebase-Rozarpay"></a>
+    <p>
+      <strong>TrainTicketBookApp-Flutter-Firebase-Rozarpay</strong>
+      <br>
+      The TrainTicketBookApp simplifies the process of booking train tickets using Flutter, Firebase, and the Razorpay payment gateway. Users can effortlessly search for train routes, reserve tickets, and securely pay through Razorpay. Firebase integration ensures user authentication and booking history management.
+    </p>
     <!-- Add more project cards as needed -->
   </p>
 
   <a href="https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
-
-
-
