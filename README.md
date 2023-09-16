@@ -1,6 +1,8 @@
-# Your Name
-
-![Open In Animation](text.gif)
+<div align="center">
+  <img src="text.gif" alt="Open In Animation" width="200" height="200">
+  <h1>Your Name</h1>
+  <p>Your Bio or Description</p>
+</div>
 ## Badges
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
