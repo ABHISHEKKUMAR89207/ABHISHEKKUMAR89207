@@ -2,6 +2,7 @@
   <img src="text.gif" alt="Open In Animation">
   <p>App and Web Developer</p>
 </div>
+
 ## Badges
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -27,10 +28,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Abhishek)
 [![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Abhishek)
 
-
 ## Achievements and Awards
 
-![GitHub Star](https://img.shields.io/github/stars/YourGitHubUsername?style=for-the-badge&color=yellow)
-![GitHub Followers](https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&color=blue)
+![GitHub Star](https://img.shields.io/github/stars/ABHISHEKKUMAR89207?style=for-the-badge&color=yellow)
+![GitHub Followers](https://img.shields.io/github/followers/ABHISHEKKUMAR89207?style=for-the-badge&color=blue)
 ![Award](https://img.shields.io/badge/Award-First%20Place-blue?style=for-the-badge)
-
