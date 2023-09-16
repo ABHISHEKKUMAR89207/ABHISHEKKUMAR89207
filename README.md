@@ -40,6 +40,18 @@
   <a href="https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
+  
+  <p align="left">
+    <em>Explore my projects:</em>
+  </p>
+  
+  <ul>
+    <li><strong>Note_App-flutter_firebase:</strong> A Flutter app for taking and managing notes with Firebase integration.</li>
+    <li><strong>Online_Shopping_App-flutter.firebase.rozarpay:</strong> An online shopping app built with Flutter and Firebase, with integration of the Razorpay payment gateway.</li>
+    <li><strong>TrainTicketBookApp-Flutter-Firebase-Rozarpay:</strong> A Flutter app for booking train tickets, with Firebase and Razorpay integration.</li>
+    <!-- Add descriptions for your other projects -->
+  </ul>
 </details>
+
 
 
