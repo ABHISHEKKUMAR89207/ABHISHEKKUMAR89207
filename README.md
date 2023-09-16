@@ -38,9 +38,19 @@
 <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-### My GitHub Stats
+### My Top Projects
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHISHEKKUMAR89207&show_icons=true&count_private=true&theme=radical)](https://github.com/ABHISHEKKUMAR89207)
+1. **[Project 1](https://github.com/USERNAME/Project1)**
+   - Language: Python
+   - Description: A brief description of Project 1.
+
+2. **[Project 2](https://github.com/USERNAME/Project2)**
+   - Language: JavaScript
+   - Description: A brief description of Project 2.
+
+3. **[Project 3](https://github.com/USERNAME/Project3)**
+   - Language: TypeScript
+   - Description: A brief description of Project 3.
 
 
   <a href="https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
