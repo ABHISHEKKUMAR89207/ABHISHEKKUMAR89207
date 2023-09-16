@@ -26,19 +26,18 @@
 
   <p align="left">
     <a href="https://github.com/ABHISHEKKUMAR89207/Note_App-flutter_firebase">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ABHISHEKKUMAR89207&repo=Note_App-flutter_firebase&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Note_App-flutter_firebase">
+<p>jfkjsnkvfjsnvjk</p>
     </a>
     <a href="https://github.com/ABHISHEKKUMAR89207/Online_Shopping_App-flutter.firebase.rozarpay">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ABHISHEKKUMAR89207&repo=Online_Shopping_App-flutter.firebase.rozarpay&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Online_Shopping_App-flutter.firebase.rozarpay">
+      <p>jfkjsnkvfjsnvjk</p>
     </a>
     <a href="https://github.com/ABHISHEKKUMAR89207/TrainTicketBookApp-Flutter-Firebase-Rozarpay">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ABHISHEKKUMAR89207&repo=TrainTicketBookApp-Flutter-Firebase-Rozarpay&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="TrainTicketBookApp-Flutter-Firebase-Rozarpay">
-    </a>
+     <p>jfkjsnkvfjsnvjk</p>
     <!-- Add more project cards as needed -->
   </p>
 
   <a href="https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <p>jfkjsnkvfjsnvjk</p>
   </a>
   
   <p align="left">
