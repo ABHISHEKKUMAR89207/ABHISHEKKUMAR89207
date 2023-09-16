@@ -24,45 +24,13 @@
 
 
 
+## 📘 My Top Open Source Projects
 
-<details open>
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+- [**Note_App-flutter_firebase**](https://github.com/ABHISHEKKUMAR89207/Note_App-flutter_firebase): A Flutter app for taking and managing notes with Firebase integration.
+- [**Online_Shopping_App-flutter.firebase.rozarpay**](https://github.com/ABHISHEKKUMAR89207/Online_Shopping_App-flutter.firebase.rozarpay): An online shopping app built with Flutter and Firebase, with integration of the Razorpay payment gateway.
+- [**TrainTicketBookApp-Flutter-Firebase-Rozarpay**](https://github.com/ABHISHEKKUMAR89207/TrainTicketBookApp-Flutter-Firebase-Rozarpay): A Flutter app for booking train tickets, with Firebase and Razorpay integration.
 
-  <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; cursor: pointer;">
-    <a href="https://github.com/ABHISHEKKUMAR89207/Note_App-flutter_firebase">
-      <div style="background-color: #ffffff; padding: 10px; border-radius: 5px;">
-        <p align="left"><b>Note_App-flutter_firebase:</b></p>
-        <p>A Flutter app for taking and managing notes with Firebase integration.</p>
-      </div>
-    </a>
-  </div>
-
-  <div style="background-color: #f0f0f0; padding: 10px; margin-top: 10px; border-radius: 5px; cursor: pointer;">
-    <a href="https://github.com/ABHISHEKKUMAR89207/Online_Shopping_App-flutter.firebase.rozarpay">
-      <div style="background-color: #ffffff; padding: 10px; border-radius: 5px;">
-        <p align="left"><b>Online_Shopping_App-flutter.firebase.rozarpay:</b></p>
-        <p>An online shopping app built with Flutter and Firebase, with integration of the Razorpay payment gateway.</p>
-      </div>
-    </a>
-  </div>
-
-  <div style="background-color: #f0f0f0; padding: 10px; margin-top: 10px; border-radius: 5px; cursor: pointer;">
-    <a href="https://github.com/ABHISHEKKUMAR89207/TrainTicketBookApp-Flutter-Firebase-Rozarpay">
-      <div style="background-color: #ffffff; padding: 10px; border-radius: 5px;">
-        <p align="left"><b>TrainTicketBookApp-Flutter-Firebase-Rozarpay:</b></p>
-        <p>A Flutter app for booking train tickets, with Firebase and Razorpay integration.</p>
-      </div>
-    </a>
-  </div>
-  <!-- Add more project cards as needed -->
-
-  <p align="left">
-    <a href="https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers">
-      <b>Explore my projects</b>
-    </a>
-  </p>
-</details>
-
+[Explore all projects](https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers)
 
 
 
