@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="text.gif" alt="Open In Animation">
-  <p>App and Web Developer</p>
+  <img src="name.gif" width="200" alt="Open In Animation">
+    <img src="inf.gif" alt="Open In Animation">
 </div>
 
 ---
