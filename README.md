@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="text.gif" alt="Open In Animation" width="200" height="200">
-  <h1>Your Name</h1>
+  <img src="text.gif" alt="Open In Animation" height="200">
   <p>Your Bio or Description</p>
 </div>
 ## Badges
