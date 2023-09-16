@@ -21,22 +21,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-3333CC?style=for-the-badge&logo=linux&logoColor=white)
 
-## Top Projects
+<details open>
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-<details>
-  <summary>Project 1 Name</summary>
-  <p>Description of project 1.</p>
-  <p>Link: <a href="https://github.com/ABHISHEKKUMAR89207/Note_App-flutter_firebase">https://github.com/ABHISHEKKUMAR89207/Note_App-flutter_firebase</a></p>
-</details>
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/ABHISHEKKUMAR89207/Note_App-flutter_firebase"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ABHISHEKKUMAR89207&repo=Note_App-flutter_firebase&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Note_App-flutter_firebase"></a>
+    <a href="https://github.com/ABHISHEKKUMAR89207/project2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ABHISHEKKUMAR89207&repo=project2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="project2"></a>
+    <a href="https://github.com/ABHISHEKKUMAR89207/project3"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ABHISHEKKUMAR89207&repo=project3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="project3"></a>
+    <!-- Add more project cards as needed -->
+  </p>
 
-<details>
-  <summary>Project 2 Name</summary>
-  <p>Description of project 2.</p>
-  <p>Link: <a href="https://github.com/ABHISHEKKUMAR89207/project2">https://github.com/ABHISHEKKUMAR89207/TrainTicketBookApp-Flutter-Firebase-Rozarpay</a></p>
-</details>
-
-<details>
-  <summary>Project 3 Name</summary>
-  <p>Description of project 3.</p>
-  <p>Link: <a href="https://github.com/ABHISHEKKUMAR89207/project3">https://github.com/ABHISHEKKUMAR89207/Online_Shopping_App-flutter.firebase.rozarpay </a></p>
+  <a href="https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
