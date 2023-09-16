@@ -21,23 +21,22 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-3333CC?style=for-the-badge&logo=linux&logoColor=white)
 
+## Top Projects
+
 <details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ABHISHEKKUMAR89207&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKKUMAR89207&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <summary>Project 1 Name</summary>
+  <p>Description of project 1.</p>
+  <p>Link: <a href="https://github.com/ABHISHEKKUMAR89207/Note_App-flutter_firebase">https://github.com/ABHISHEKKUMAR89207/Note_App-flutter_firebase</a></p>
 </details>
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/ABHISHEKKUMAR89207/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/ABHISHEKKUMAR89207/Online_Shopping_App-flutter.firebase.rozarpay"><img width="278" src="https://ABHISHEKKUMAR89207-github-readme-stats.vercel.app/api/pin/?username=ABHISHEKKUMAR89207&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/ABHISHEKKUMAR89207/TrainTicketBookApp-Flutter-Firebase-Rozarpay"><img width="278" src="https://ABHISHEKKUMAR89207-github-readme-stats.vercel.app/api/pin/?username=ABHISHEKKUMAR89207&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  
-  </p>
+<details>
+  <summary>Project 2 Name</summary>
+  <p>Description of project 2.</p>
+  <p>Link: <a href="https://github.com/ABHISHEKKUMAR89207/project2">https://github.com/ABHISHEKKUMAR89207/TrainTicketBookApp-Flutter-Firebase-Rozarpay</a></p>
+</details>
 
-<a href="https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
+<details>
+  <summary>Project 3 Name</summary>
+  <p>Description of project 3.</p>
+  <p>Link: <a href="https://github.com/ABHISHEKKUMAR89207/project3">https://github.com/ABHISHEKKUMAR89207/Online_Shopping_App-flutter.firebase.rozarpay </a></p>
 </details>
