@@ -26,31 +26,25 @@
 
   <p align="left">
     <a href="https://github.com/ABHISHEKKUMAR89207/Note_App-flutter_firebase">
-<p>jfkjsnkvfjsnvjk</p>
+      <p><b>Note_App-flutter_firebase:</b> A Flutter app for taking and managing notes with Firebase integration.</p>
     </a>
     <a href="https://github.com/ABHISHEKKUMAR89207/Online_Shopping_App-flutter.firebase.rozarpay">
-      <p>jfkjsnkvfjsnvjk</p>
+      <p><b>Online_Shopping_App-flutter.firebase.rozarpay:</b> An online shopping app built with Flutter and Firebase, with integration of the Razorpay payment gateway.</p>
     </a>
     <a href="https://github.com/ABHISHEKKUMAR89207/TrainTicketBookApp-Flutter-Firebase-Rozarpay">
-     <p>jfkjsnkvfjsnvjk</p>
+      <p><b>TrainTicketBookApp-Flutter-Firebase-Rozarpay:</b> A Flutter app for booking train tickets, with Firebase and Razorpay integration.</p>
+    </a>
     <!-- Add more project cards as needed -->
   </p>
 
-  <a href="https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers">
-  <p>jfkjsnkvfjsnvjk</p>
-  </a>
-  
   <p align="left">
-    <em>Explore my projects:</em>
+    <a href="https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers">
+      <b>Explore my projects</b>
+    </a>
   </p>
   
-  <ul>
-    <li><strong>Note_App-flutter_firebase:</strong> A Flutter app for taking and managing notes with Firebase integration.</li>
-    <li><strong>Online_Shopping_App-flutter.firebase.rozarpay:</strong> An online shopping app built with Flutter and Firebase, with integration of the Razorpay payment gateway.</li>
-    <li><strong>TrainTicketBookApp-Flutter-Firebase-Rozarpay:</strong> A Flutter app for booking train tickets, with Firebase and Razorpay integration.</li>
-    <!-- Add descriptions for your other projects -->
-  </ul>
 </details>
+
 
 
 
