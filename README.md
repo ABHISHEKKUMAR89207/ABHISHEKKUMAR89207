@@ -25,12 +25,10 @@
 
 ---
 
-## Skills
-
-<!-- Create a grid layout for your skills -->
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; justify-items: center;">
 ## Social Media Links
 
+<!-- Add your social media links with icons -->
+<div align="center">
 [![GitHub](https://img.shields.io/badge/GitHub-YourGitHubUsername-blue?style=for-the-badge&logo=github)](https://github.com/ABHISHEKKUMAR89207)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Abhishek)
 [![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Abhishek)
@@ -39,29 +37,12 @@
 
 ---
 
-## Social Media Links
-
-<!-- Add your social media links with icons -->
-<div align="center">
-  <a href="https://github.com/ABHISHEKKUMAR89207">
-    <img src="github.png" alt="GitHub" width="50" height="50">
-  </a>
-  <a href="https://www.linkedin.com/in/Abhishek">
-    <img src="linkedin.png" alt="LinkedIn" width="50" height="50">
-  </a>
-  <a href="https://twitter.com/Abhishek">
-    <img src="twitter.png" alt="Twitter" width="50" height="50">
-  </a>
-</div>
-
----
-
 ## Achievements and Awards
 
-<!-- Add your achievements and awards -->
 ![GitHub Star](https://img.shields.io/github/stars/YourGitHubUsername?style=for-the-badge&color=yellow)
 ![GitHub Followers](https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&color=blue)
 ![Award](https://img.shields.io/badge/Award-First%20Place-blue?style=for-the-badge)
+
 
 ---
 
@@ -69,7 +50,5 @@
 
 <!-- Add a button to link to all your repositories -->
 <div align="center">
-  <a href="https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers">
-    <img src="repo.png" alt="All Repositories" width="150" height="50">
-  </a>
+  <a href="https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </div>
