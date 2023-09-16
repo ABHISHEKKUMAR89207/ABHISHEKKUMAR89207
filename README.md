@@ -27,7 +27,12 @@
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/ABHISHEKKUMAR89207/Note_App-flutter_firebase"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ABHISHEKKUMAR89207&repo=Note_App-flutter_firebase&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Note_App-flutter_firebase"></a>
+    <a href="https://github.com/ABHISHEKKUMAR89207/Note_App-flutter_firebase"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ABHISHEKKUMAR89207&repo=Note_App-flutter_firebase&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Note_App-flutter_firebase">  <p>
+      <strong>Note_App-flutter_firebase</strong>
+      <br>
+      This project is a versatile note-taking app developed using the Flutter framework and Firebase for backend support. It empowers users to create, edit, and organize their notes efficiently. Real-time synchronization with Firebase ensures that users can access their notes seamlessly across devices.
+    </p>
+    </a>
     <p>
       <strong>Note_App-flutter_firebase</strong>
       <br>
