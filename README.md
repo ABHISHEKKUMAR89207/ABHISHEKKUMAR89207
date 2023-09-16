@@ -23,7 +23,7 @@
 
 
 <details open>
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2 style="background-color: #3498db; color: #fff; padding: 10px;">📘 My Top Open Source Projects</h2></summary>
 
   | Project | Description |
   |---------|-------------|
@@ -34,5 +34,6 @@
 
   [Explore all projects](https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers)
 </details>
+
 
 
