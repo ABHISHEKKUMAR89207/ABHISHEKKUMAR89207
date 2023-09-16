@@ -40,19 +40,6 @@
 
 ---
 
-## Achievements and Awards
-<div align="center">
 
-![GitHub Star](https://img.shields.io/github/stars/YourGitHubUsername?style=for-the-badge&color=yellow)
-![GitHub Followers](https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&color=blue)
-![Award](https://img.shields.io/badge/Award-First%20Place-blue?style=for-the-badge)
-</div>
-
----
-
-## All Repositories
-
-<!-- Add a button to link to all your repositories -->
-<div align="center">
   <a href="https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</div>
+
