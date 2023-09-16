@@ -41,11 +41,12 @@
 ---
 
 ## Achievements and Awards
+<div align="center">
 
 ![GitHub Star](https://img.shields.io/github/stars/YourGitHubUsername?style=for-the-badge&color=yellow)
 ![GitHub Followers](https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&color=blue)
 ![Award](https://img.shields.io/badge/Award-First%20Place-blue?style=for-the-badge)
-
+</div>
 
 ---
 
