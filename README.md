@@ -1,8 +1,8 @@
 <div align="center">
   <img src="name.gif" width="200" alt="Open In Animation">
-    <img src="inf.gif" alt="Open In Animation">
+ 
 </div>
-
+ <img src="inf.gif" alt="Open In Animation">
 ---
 ## Badges
 
