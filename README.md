@@ -2,7 +2,9 @@
   <img src="name.gif" width="200" alt="Open In Animation">
  
 </div>
+<div align="center">
  <img src="inf.gif" alt="Open In Animation">
+  </div>
 ---
 ## Badges
 
