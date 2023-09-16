@@ -29,15 +29,12 @@
 
 <!-- Create a grid layout for your skills -->
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; justify-items: center;">
-  <div>
-    <img src="java.png" alt="Java" width="50" height="50">
-    <p>Java</p>
-  </div>
-  <div>
-    <img src="dart.png" alt="Dart" width="50" height="50">
-    <p>Dart</p>
-  </div>
-  <!-- Add more skills with icons as needed -->
+## Social Media Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-YourGitHubUsername-blue?style=for-the-badge&logo=github)](https://github.com/ABHISHEKKUMAR89207)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Abhishek)
+[![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Abhishek)
+
 </div>
 
 ---
