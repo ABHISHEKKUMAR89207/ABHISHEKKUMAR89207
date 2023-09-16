@@ -1,6 +1,6 @@
 <div align="center">
   <img src="text.gif" alt="Open In Animation">
-  <p>Your Bio or Description</p>
+  <p>App and Web Developer</p>
 </div>
 ## Badges
 
@@ -20,3 +20,10 @@
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&color=4DB33D)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-3333CC?style=for-the-badge&logo=linux&logoColor=white)
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ABHISHEKKUMAR89207&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKKUMAR89207&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
