@@ -1,8 +1,9 @@
-
 <div align="center">
   <img src="text.gif" alt="Open In Animation">
   <p>App and Web Developer</p>
 </div>
+
+---
 ## Badges
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -22,39 +23,56 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-3333CC?style=for-the-badge&logo=linux&logoColor=white)
 
+---
+
+## Skills
+
+<!-- Create a grid layout for your skills -->
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; justify-items: center;">
+  <div>
+    <img src="java.png" alt="Java" width="50" height="50">
+    <p>Java</p>
+  </div>
+  <div>
+    <img src="dart.png" alt="Dart" width="50" height="50">
+    <p>Dart</p>
+  </div>
+  <!-- Add more skills with icons as needed -->
+</div>
+
+---
+
 ## Social Media Links
 
-[![GitHub](https://img.shields.io/badge/GitHub-YourGitHubUsername-blue?style=for-the-badge&logo=github)](https://github.com/ABHISHEKKUMAR89207)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Abhishek)
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Abhishek)
+<!-- Add your social media links with icons -->
+<div align="center">
+  <a href="https://github.com/ABHISHEKKUMAR89207">
+    <img src="github.png" alt="GitHub" width="50" height="50">
+  </a>
+  <a href="https://www.linkedin.com/in/Abhishek">
+    <img src="linkedin.png" alt="LinkedIn" width="50" height="50">
+  </a>
+  <a href="https://twitter.com/Abhishek">
+    <img src="twitter.png" alt="Twitter" width="50" height="50">
+  </a>
+</div>
 
+---
 
 ## Achievements and Awards
 
+<!-- Add your achievements and awards -->
 ![GitHub Star](https://img.shields.io/github/stars/YourGitHubUsername?style=for-the-badge&color=yellow)
 ![GitHub Followers](https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&color=blue)
 ![Award](https://img.shields.io/badge/Award-First%20Place-blue?style=for-the-badge)
 
-<details open>
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+---
 
-### My Top Projects
+## All Repositories
 
-1. **[Project 1](https://github.com/USERNAME/Project1)**
-   - Language: Python
-   - Description: A brief description of Project 1.
-
-2. **[Project 2](https://github.com/USERNAME/Project2)**
-   - Language: JavaScript
-   - Description: A brief description of Project 2.
-
-3. **[Project 3](https://github.com/USERNAME/Project3)**
-   - Language: TypeScript
-   - Description: A brief description of Project 3.
-
-
-  <a href="https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
-
-
+<!-- Add a button to link to all your repositories -->
+<div align="center">
+  <a href="https://github.com/ABHISHEKKUMAR89207?tab=repositories&sort=stargazers">
+    <img src="repo.png" alt="All Repositories" width="150" height="50">
+  </a>
+</div>
