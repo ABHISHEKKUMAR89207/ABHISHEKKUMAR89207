@@ -5,6 +5,7 @@
 <div align="center">
  <img src="inf.gif" alt="Open In Animation">
   </div>
+  
 ---
 ## Badges
 
